@@ -2,7 +2,7 @@
 
 A four-wheel robot that detects a person and turns toward them, built for the **Eco Innova challenge at Mekathlon 2024-25** while I was in Class XII.
 
-> **Credit:** This project is based on the human-following robot tutorial by **DIY Builder** ([tutorial link](https://youtu.be/yAV5aZ0unag?si=coUM23Ws61z-ip-E)).
+> **Credit:** This project is based on the human-following robot tutorial by **DIY Builder** ([tutorial link](https://youtu.be/yAV5aZ0unag?si=coUM23Ws61z-ip-E)). The original design, code, and wiring diagram belong to the author and are not included in this repository. Please use the tutorial link to get them.
 
 ## Demo
 
