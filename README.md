@@ -78,9 +78,9 @@ The robot reached the final stage of the competition. At the last moment, a batt
 
 ## Credits and license
 
-- Original design: DIY Builder tutorial (https://youtu.be/yAV5aZ0unag?si=U98nsG80JnvO0z4J). Check the original's license and follow its terms.
+- Original design: DIY Builder tutorial  ([tutorial link](https://youtu.be/yAV5aZ0unag?si=coUM23Ws61z-ip-E)). Check the original's license and follow its terms.
 - Documentation, photos, and videos: Saumya Sahu.
-- License for this repo: MIT. This applies to my documentation and my own work. The original design and code remain under the DIY Builder tutorial's terms (https://youtu.be/yAV5aZ0unag?si=vWdB-3jS2P7b7KGI).
+- License for this repo: MIT. This applies to my documentation and my own work. The original design and code remain under the DIY Builder tutorial's terms  ([tutorial link](https://youtu.be/yAV5aZ0unag?si=coUM23Ws61z-ip-E)).
 
 ## Author
 
