@@ -7,7 +7,7 @@ A four-wheel robot that detects a person and turns toward them, built for the **
 ## Demo
 
 - Demo video 1: [LinkedIn post](https://lnkd.in/p/gBsASFh6)
-- Demo video 2: [Sensor test](media/sensor_test.mp4). A hand is placed in front of an infrared sensor, and the wheels turn toward that side.
+- Demo video 2: [Sensor test](sensor_test.mp4). A hand is placed in front of an infrared sensor, and the wheels turn toward that side.
 - Photo:
  ![Robot photo](https://media.licdn.com/dms/image/v2/D562DAQGvdgOVUAmzLw/profile-treasury-image-shrink_480_480/B56aHuYTuGH0AU-/0/1795000712381?e=1795773600&v=beta&t=K5yPX0gXpYd8UV_icXjy5tYlMyQeEcOFk00krstfnOU)
 
